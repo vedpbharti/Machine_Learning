@@ -4,3 +4,4 @@ This repo contains code for different machine learning algorithms, both personal
 
 1. Clustering (UCI Machine Learning Repository)
 2. Time Series Analysis (Tutorial at Analyticsvidhya)
+3. MultiClass Classification 
